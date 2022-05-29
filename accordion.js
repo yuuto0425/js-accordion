@@ -4,7 +4,7 @@
 		
 		//初期化
 		constructor(obj){
-			console.log('obj', obj.hookName);
+			// console.log('obj', obj.hookName);
 
 			const $elm = document.querySelector(obj.hookName);
 			const $trigger = $elm.getElementsByTagName(obj.tagName);
