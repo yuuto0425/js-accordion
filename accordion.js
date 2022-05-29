@@ -4,7 +4,7 @@
 		
 		//初期化
 		constructor(obj){
-			//aaa
+			//aaaa
 			//sourcetreeでfix-buttonをマージ
 			// console.log('obj', obj.hookName);
 			//aaa
