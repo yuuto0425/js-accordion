@@ -4,7 +4,6 @@
 		
 		//初期化
 		constructor(obj){
-			///aaaaa sourcetreeの練習で記載
 			console.log('obj', obj.hookName);
 
 			const $elm = document.querySelector(obj.hookName);
