@@ -8,6 +8,7 @@
 			//sourcetreeでfix-buttonをマージ
 			// console.log('obj', obj.hookName);
 			//aaa
+			
 			const $elm = document.querySelector(obj.hookName);
 			const $trigger = $elm.getElementsByTagName(obj.tagName);
 
