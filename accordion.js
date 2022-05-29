@@ -7,7 +7,11 @@
 			//aaa
 			//sourcetreeでfix-buttonをマージ
 			// console.log('obj', obj.hookName);
+<<<<<<< HEAD
 			
+=======
+			//aaa
+>>>>>>> fix-button(kari)
 			const $elm = document.querySelector(obj.hookName);
 			const $trigger = $elm.getElementsByTagName(obj.tagName);
 
