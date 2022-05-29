@@ -4,13 +4,9 @@
 		
 		//初期化
 		constructor(obj){
-<<<<<<< HEAD
-=======
 			//aaa
 			//sourcetreeでfix-buttonをマージ
->>>>>>> fix-button(kari)
 			// console.log('obj', obj.hookName);
-
 			const $elm = document.querySelector(obj.hookName);
 			const $trigger = $elm.getElementsByTagName(obj.tagName);
 
